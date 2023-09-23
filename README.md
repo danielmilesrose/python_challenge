@@ -1,7 +1,7 @@
 # python_challenge
 Python Challenge for Module 3 -- UC Berkeley Data Analysis 
 
-In this challenge, we use python to sort through two CSVs to extract data.
+In this challenge, we use Python to sort through two CSVs to extract data.
 
 In the first part of the challenge, we use code to iterate through a CSV to analyze a company's financial records.
 We have created a code to loop through the CSV and collect various datapoints, such as how much the company
