@@ -11,6 +11,4 @@ gains/losses occurred.  This program will also create and print the findings in 
 In the second part of the challenge, we have created a code to scan a CSV containing votes in an election,
 and collect that data to determine how many votes each candidate received and who the winner of the election was.
 
-In part two, some code/theories were sourced from:
-https://www.tutorialspoint.com/count-frequencies-of-all-elements-in-array-in-python
-https://www.entechin.com/how-to-find-the-max-value-in-a-dictionary-in-python/?expand_article=1
+In part two, some code/methods were sourced from https://www.tutorialspoint.com/count-frequencies-of-all-elements-in-array-in-python and https://www.entechin.com/how-to-find-the-max-value-in-a-dictionary-in-python/?expand_article=1
